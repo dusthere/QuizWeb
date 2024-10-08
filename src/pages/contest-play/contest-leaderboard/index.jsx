@@ -303,4 +303,3 @@ const ContestLeaderBoard = ({ t }) => {
   )
 }
 export default withTranslation()(ContestLeaderBoard)
-  
